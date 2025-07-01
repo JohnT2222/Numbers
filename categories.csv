@@ -1,5 +1,5 @@
-name
-AI/ML & Technical Proficiency
-Product Strategy & Management
-Cross-functional Leadership
-Personal Meta-Skills
+category_id,category_name,category_description
+CAT001,AI/ML & Technical Proficiency,Skills related to artificial intelligence and technical implementation
+CAT002,Product Strategy & Management,Planning and managing products through their lifecycle
+CAT003,Cross-functional Leadership,Leading teams across different functions and expertise
+CAT004,Personal Meta-Skills,Self-management, learning agility, and adaptability
